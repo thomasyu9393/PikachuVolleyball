@@ -2,7 +2,7 @@
 
 The final project for *Digital Circuit Lab.*, 2023 Fall.
 
-The Pikachu volleyball game implemented by verilog, using FPGA Arty board.
+The Pikachu volleyball game implemented by verilog, on a FPGA Arty board with an external VGA display.
 
 ## Functionality
 - Basic Operations
@@ -17,6 +17,5 @@ The Pikachu volleyball game implemented by verilog, using FPGA Arty board.
 	- Use `sw1` to stop the move of the opponent Pikachu
 
 ## Misc.
-- Scoring System (with 7-Point Game-Over)
-- Parabolic Trajectory of the Ball
-- VGA Display
+- Scoring system (with 7-point game-over)
+- Parabolic trajectory of the ball
